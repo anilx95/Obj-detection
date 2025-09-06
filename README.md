@@ -1,4 +1,4 @@
-# YOLOv8 Flask App 
+# Image Detection App
 
 A Flask web application that integrates **YOLOv8 (You Only Look Once)** object detection model for real-time predictions.  
 This project allows you to upload images and get bounding boxes with detected objects directly in your browser.
