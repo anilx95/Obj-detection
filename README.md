@@ -5,16 +5,16 @@ This project allows you to upload images and get bounding boxes with detected ob
 
 ---
 
-## 📌 Features
-- 🔍 Real-time object detection using **YOLOv8**  
-- 🌐 Flask-based web interface  
-- 📷 Upload images for detection  
-- 🖼️ View results with bounding boxes drawn on detected objects  
-- ⚡ Lightweight and easy to deploy  
+##  Features
+-  Real-time object detection using **YOLOv8**  
+-  Flask-based web interface  
+-  Upload images for detection  
+-  View results with bounding boxes drawn on detected objects  
+-  Lightweight and easy to deploy  
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
